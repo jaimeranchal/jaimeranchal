@@ -22,7 +22,7 @@ Por el lado del _frontend_ estoy aprendiendo [Vue 3](https://v3.vuejs.org). Por 
 Ahora mismo estoy trabajando en dos **proyectos** para mi primer portafolio: 
 
 - una _SPA_ con **Laravel** y **Vue 3**
-- un _bot_ de producitidad para grupos **Telegram**.
+- un _bot_ de productividad para grupos de **Telegram**.
 
 Todavía están en una fase muy alfa, pero espero subir pronto una primera versión.
 
